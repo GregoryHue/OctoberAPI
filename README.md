@@ -41,3 +41,4 @@ README.md
 * [How to configure eslint with nodejs express application](https://stackoverflow.com/questions/46562730/how-to-configure-eslint-with-nodejs-express-application/)
 * [RCS, SIRET, numéro de TVA et informations sur les entreprises](https://www.verif.com/societe/)
 * [How to Scrape Data From Any Website With JavaScript](https://hackernoon.com/how-to-build-a-web-scraper-with-nodejs)
+* [Test a Node RESTful API with Mocha and Chai](https://www.digitalocean.com/community/tutorials/test-a-node-restful-api-with-mocha-and-chai)
